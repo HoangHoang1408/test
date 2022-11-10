@@ -1,7 +1,8 @@
 and a pre line
-hello from the first sight
+hello from branch cua thanh
+thanh add a new line here adfadfafafafasfsdfsafsfsfdsaf
 add a new line
 
 dsfsdsdf
 
-new from main after first test
+new from main  hay conflict nao
