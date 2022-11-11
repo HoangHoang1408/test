@@ -1,6 +1,6 @@
 and a pre line
 hello from branch cua thanh
-thanh add a new line here adfadfafafafasfsdfsafsfsfdsaf
+thanh add "thanh sua doan nay"a new line here "doan nay nua"
 add a new line
 
 dsfsdsdf
