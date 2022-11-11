@@ -1,11 +1,6 @@
 sddfsdf
 and a pre line
 
-hello from branch cua thanh
-thanh add "thanh sua doan nay"a new line here "doan nay nua"
-add a new line
-
-new from main  hay conflict nao
 
 anch cua thanh
 thasfsdfnh add a new line hefdsfdsfre adfadfafafafasfsdfsafsfsfdsaf
@@ -15,4 +10,9 @@ dfsdfsfsddsdf
 fsdfsdf
 new from main  hay conflict naodfssdffsd
 fsdfds
+
+jgfssfa-flip-horizontal
+
+349yhrw3
+
 
